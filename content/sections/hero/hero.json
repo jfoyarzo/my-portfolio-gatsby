@@ -1,5 +1,5 @@
 {
-  "intro": "Hello!",
+  "intro": "",
   "heroPhoto": {
     "src": "",
     "alt": ""
@@ -8,13 +8,13 @@
     "src": "",
     "alt": ""
   },
-  "title": "My name is Felipe Oyarzo",
+  "title": "Felipe Oyarzo",
   "subtitle": {
-    "prefix": "and I am a ",
+    "prefix": "",
     "highlight": "Full Stack Developer",
     "suffix": "."
   },
-  "description": "I can help you build and mantain apps in modern frameworks like React or Ruby on Rails",
+  "description": "Hello! I am a software developer! I can help you build a product, feature or website. Take a look of my works. If you like what you see and have a project you need coded, don't hesitate and contact me.  ",
   "socialProfiles": {
     "from": ["LinkedIn", "Medium", "Github", "Mail"],
     "showIcons": true

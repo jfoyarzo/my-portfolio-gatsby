@@ -2,23 +2,23 @@
   "projects": [
     {
       "visible": true,
-      "category": "🕹️ EASY AND QUICK SETUP",
-      "title": "Add content and deploy!",
-      "description": "Get up and running within minutes. Just install the starter, add your content, deploy it, and there you go! This starter works seamlessly with hosts like Netlify. Photo by Clément H on Unsplash.",
-      "tags": ["Content Integration", "Ready-2-Deploy"],
+      "category": "HTTP Server | Server-side Rendering",
+      "title": "Skatepark App",
+      "description": "An app that enables users to sign up for a fictional Skate event. The users and their info is displayed on the homepage of the front end. It has an admin view where you can authorize the registration of users. The backend is an API REST server made with Node.js and the Express framework. Express-Handlebars is used to render the pages dynamically and the data is persisted using a PostgreSQL database.",
+      "tags": ["JavaScript", "Node.js", "ExpressJS", "Express-Handlebars", "JWT", "PostgreSQL"],
       "image": {
-        "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
-        "alt": "Quick Setup",
-        "linkTo": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+        "src": "../../images/skatepark.png",
+        "alt": "Skatepark app frontend",
+        "linkTo": "https://github.com/jfoyarzo/SkateparkApp"
       },
       "links": [
         {
           "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+          "url": "https://github.com/jfoyarzo/SkateparkApp"
         },
         {
           "type": "external",
-          "url": "https://www.gatsbyjs.org/docs/mdx/writing-pages/"
+          "url": "https://skatepark-app.onrender.com/"
         }
       ]
     },

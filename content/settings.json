@@ -16,7 +16,7 @@
     }
   },
   "siteConfiguration": {
-    "logo": { "text": "Felipe Oyarzo" },
+    "logo": { "text": "Portfolio" },
     "navigation": {
       "header": [
         { "label": "About", "url": "/#about" },

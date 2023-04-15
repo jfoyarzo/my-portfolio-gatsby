@@ -2,14 +2,13 @@
   "projects": [
     {
       "visible": true,
-      "category": "HTTP Server | Server-side Rendering",
+      "category": "HTTP Server | Full-stack app",
       "title": "Skatepark App",
       "description": "An app that enables users to sign up for a fictional Skate event. The users and their info is displayed on the homepage of the front end. It has an admin view where you can authorize the registration of users. The backend is an API REST server made with Node.js and the Express framework. Express-Handlebars is used to render the pages dynamically and the data is persisted using a PostgreSQL database.",
-      "tags": ["JavaScript", "Node.js", "ExpressJS", "Express-Handlebars", "JWT", "PostgreSQL"],
+      "tags": ["JavaScript","Bootstrap", "Node.js", "ExpressJS", "Express-Handlebars", "JWT", "PostgreSQL"],
       "image": {
         "src": "../../images/skatepark.png",
-        "alt": "Skatepark app frontend",
-        "linkTo": "https://github.com/jfoyarzo/SkateparkApp"
+        "alt": "Skatepark app frontend"
       },
       "links": [
         {
@@ -21,28 +20,74 @@
           "url": "https://skatepark-app.onrender.com/"
         }
       ]
-    },
+    },    
     {
       "visible": true,
-      "category": "🧰 EXTENDABLE LAYOUT",
-      "title": "Add more sections!",
-      "description": "The starter includes predefined sections as well as a template for new, custom sections. Moreover, you can add new projects to this section without additional coding. Photo by Kelly Sikkema on Unsplash.",
-      "tags": ["Custom Sections", "Easy-2-Use"],
+      "category": "Full-stack app | Server-side Rendering",
+      "title": "Budget Pal",
+      "description": "A web app for keeping track of payments, where users can register, create categories, and add payments to one or more category. It also displays the total amount spent on each category. Ruby on Rails was used for the backend/frontend of the app and bulma-css for styles. Also uses the devise gem for authentication",
+      "tags": ["Rails", "Ruby", "Bulma-css", "Devise", "PostgreSQL"],
       "image": {
-        "src": "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg",
-        "alt": "Extendable Layout"
+        "src": "../../images/budget-pal-presentation.png",
+        "alt": "Budget Pal screenshot"
       },
       "links": [
         {
           "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+          "url": "https://github.com/jfoyarzo/budget-app"
+        },
+        {
+          "type": "external",
+          "url": "https://budget-pal.onrender.com/"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "Vanilla JavaScript | CRUD",
+      "title": "To-do App",
+      "description": "App for keeping track of tasks. Users can add and edit tasks, mark the ones that are completed, and clear all completed tasks. Built using vanilla JavaScript, CSS and HTML",
+      "tags": ["JavaScript", "CSS", "HTML", "Webpack"],
+      "image": {
+        "src": "../../images/todo-app.png",
+        "alt": "To-do App screenshot"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/jfoyarzo/ToDo-list"
+        },
+        {
+          "type": "external",
+          "url": "https://jfoyarzo.github.io/ToDo-list/dist/"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "API Client | State Management",
+      "title": "Pinball Wizard",
+      "description": "A mobile web app that uses the data from the Pinball Map Api to display the total count of pinball machines in USA and breaks down the top 10 cities by location and number of machines. Built with React and Bootstrap, Redux-Toolkit is used for state management",
+      "tags": ["React", "Redux", "Bootstrap", "Jest"],
+      "image": {
+        "src": "../../images/pinball-wizard-presentation.png",
+        "alt": "Pinball Wizard screenshot"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/jfoyarzo/pinball-wizard"
+        },
+        {
+          "type": "external",
+          "url": "https://pinball-wizard.netlify.app/"
         }
       ]
     }
   ],
   "button": {
     "visible": true,
-    "label": "Visit on Github",
-    "url": "https://github.com/konstantinmuenster/gatsby-theme-portfolio-minimal"
+    "label": "View more on Github",
+    "url": "https://github.com/jfoyarzo?tab=repositories"
   }
 }

@@ -19,8 +19,9 @@
     "logo": { "text": "" },
     "navigation": {
       "header": [
-        { "label": "About", "url": "/#about" },
+        { "label": "Tech Stack", "url": "/#stack" },
         { "label": "Projects", "url": "/#projects" },
+        { "label": "About", "url": "/#about" },
         { "label": "Contact", "url": "/#contact" }
       ],
       "ctaButton": {

@@ -54,3 +54,13 @@ h3 {
     background: url('/img/image_dots.png') 0.7em 3em no-repeat, url('/img/image_dots_with_teal.png') 98% 98% no-repeat;
     background-size: 40vw, 40vw;
 }
+
+#about {
+    background: url('/img/grid-bg2.png') 2% 62% no-repeat;
+    background-size: 15vh;
+}
+
+#contact {
+    background: url('/img/grid-bg1.png') 97% 53% no-repeat;
+    background-size: 25vh;
+}

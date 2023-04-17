@@ -2,7 +2,7 @@
   "projects": [
     {
       "visible": true,
-      "category": "HTTP Server | Full-stack app",
+      "category": "API Server | Full-stack app",
       "title": "Skatepark App",
       "description": "An app that enables users to sign up for a fictional Skate event. The users and their info is displayed on the homepage of the front end. It has an admin view where you can authorize the registration of users. The backend is an API REST server made with Node.js and the Express framework. Express-Handlebars is used to render the pages dynamically and the data is persisted using a PostgreSQL database.",
       "tags": ["JavaScript","Bootstrap", "Node.js", "ExpressJS", "Express-Handlebars", "JWT", "PostgreSQL"],
@@ -23,7 +23,7 @@
     },    
     {
       "visible": true,
-      "category": "Full-stack app | Server-side Rendering",
+      "category": "Full-stack app | Ruby on Rails",
       "title": "Budget Pal",
       "description": "A web app for keeping track of payments, where users can register, create categories, and add payments to one or more category. It also displays the total amount spent on each category. Ruby on Rails was used for the backend/frontend of the app and bulma-css for styles. Also uses the devise gem for authentication",
       "tags": ["Rails", "Ruby", "Bulma-css", "Devise", "PostgreSQL"],

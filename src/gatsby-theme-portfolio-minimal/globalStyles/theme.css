@@ -64,3 +64,51 @@ h3 {
     background: url('/img/grid-bg1.png') 97% 53% no-repeat;
     background-size: 25vh;
 }
+
+@media (min-width: 768px) {
+    #projects {
+        background-size: 20vw, 20vw;
+        background-position: 0.8em 3.5em, 30em bottom;
+    }
+
+    #about {
+        background-size: 35vw;
+        background-position: 75% bottom;
+        height: 56vh;
+    }
+}
+
+@media (min-width: 992px) {
+    #hero {
+        background: url('/img/image_geometry_3.png') no-repeat 100%;
+        background-size: auto 100%;
+        height: 100vh;
+    }
+
+    #stack {
+        padding-top: 4em;
+    }
+
+    #projects {
+        background: url('/img/grid-bg3.png') no-repeat 1% 0, url('/img/image_dots_with_teal.png') no-repeat 98% 100%, url('/img/image_dots.png') no-repeat 74% 43%;
+        background-size: 30vh;
+        padding-top: 2em;
+    }
+
+    #about {
+        padding-top: 5em;
+        background: url('/img/contact-bg1.png') #f2f2f2 no-repeat top left;
+        background-size: 20vh;
+    }
+
+    #contact {
+        background: url('/img/contact-bg2.png') #f2f2f2 no-repeat bottom right;
+        background-size: 25vh;
+        height: 60vh;
+        padding-top: 6em;
+    }
+
+    footer {
+        margin-top: 0 !important;
+    }
+}

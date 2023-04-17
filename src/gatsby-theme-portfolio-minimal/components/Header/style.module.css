@@ -183,3 +183,21 @@
     pointer-events: none;
     user-select: none;
 }
+
+@media (min-width: 992px) {
+    .Header {
+        background-image: none;
+        justify-content: end;
+    }
+
+    .TopNavigationBar a {
+        font-size: 1.2rem;
+        font-weight: 400;
+    }
+
+    .Header .ContentWrapper {
+        margin: 0 30% 0 auto;
+    }
+
+    
+}

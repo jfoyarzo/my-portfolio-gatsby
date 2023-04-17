@@ -26,11 +26,11 @@
       ],
       "ctaButton": {
         "openNewTab": true,
-        "label": "Resume",
+        "label": "Get my CV",
         "url": "/resume.pdf"
       },
       "footer": [
-        { "label": "Download Resume", "url": "/resume.pdf" },
+        { "label": "Get my CV", "url": "/resume.pdf" },
         { "label": "Back to Top", "url": "/#hero" }
       ]
     },

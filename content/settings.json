@@ -27,11 +27,11 @@
       "ctaButton": {
         "openNewTab": true,
         "label": "Get my CV",
-        "url": "/resume.pdf"
+        "url": "/resume_felipe_oyarzo.pdf"
       },
       "footer": [
-        { "label": "Get my CV", "url": "/resume.pdf" },
-        { "label": "Back to Top", "url": "/#hero" }
+        { "label": "Back to Top", "url": "/#hero" },
+        { "label": "Projects", "url": "/#projects" }
       ]
     },
     "featureToggles": {

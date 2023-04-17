@@ -8,7 +8,8 @@
       "tags": ["JavaScript","Bootstrap", "Node.js", "ExpressJS", "Express-Handlebars", "JWT", "PostgreSQL"],
       "image": {
         "src": "../../images/skatepark.png",
-        "alt": "Skatepark app frontend"
+        "alt": "Skatepark app frontend",
+        "linkTo": "https://github.com/jfoyarzo/SkateparkApp"
       },
       "links": [
         {
@@ -29,7 +30,8 @@
       "tags": ["Rails", "Ruby", "Bulma-css", "Devise", "PostgreSQL"],
       "image": {
         "src": "../../images/budget-pal-presentation.png",
-        "alt": "Budget Pal screenshot"
+        "alt": "Budget Pal screenshot",
+        "linkTo": "https://github.com/jfoyarzo/budget-app"
       },
       "links": [
         {
@@ -50,7 +52,8 @@
       "tags": ["JavaScript", "CSS", "HTML", "Webpack"],
       "image": {
         "src": "../../images/todo-app.png",
-        "alt": "To-do App screenshot"
+        "alt": "To-do App screenshot",
+        "linkTo": "https://github.com/jfoyarzo/ToDo-list"
       },
       "links": [
         {
@@ -71,7 +74,8 @@
       "tags": ["React", "Redux", "Bootstrap", "Jest"],
       "image": {
         "src": "../../images/pinball-wizard-presentation.png",
-        "alt": "Pinball Wizard screenshot"
+        "alt": "Pinball Wizard screenshot",
+        "linkTo": "https://github.com/jfoyarzo/pinball-wizard"
       },
       "links": [
         {

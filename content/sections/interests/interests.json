@@ -1,58 +1,107 @@
 {
   "interests": [
     {
-      "label": "Quick and Easy Setup",
+      "label": "JavaScript",
       "image": {
-        "src": "../../images/joystick.png",
+        "src": "../../images/tech-stack/js.png",
         "alt": ""
       }
     },
     {
-      "label": "Content via Markdown",
+      "label": "Node.js",
       "image": {
-        "src": "../../images/notebook.png",
+        "src": "../../images/tech-stack/nodejs.png",
         "alt": ""
       }
     },
     {
-      "label": "Responsive Design",
+      "label": "Ruby",
       "image": {
-        "src": "../../images/nail-polish.png",
+        "src": "../../images/tech-stack/ruby.png",
         "alt": ""
       }
     },
     {
-      "label": "Medium Integration",
+      "label": "Rails",
       "image": {
-        "src": "../../images/medium.png",
+        "src": "../../images/tech-stack/rails.png",
         "alt": ""
       }
     },
     {
-      "label": "Animations",
+      "label": "React",
       "image": {
-        "src": "../../images/gem-stone.png",
+        "src": "../../images/tech-stack/reactjs.png",
         "alt": ""
       }
     },
     {
-      "label": "PWA (Offline Support)",
+      "label": "Redux",
       "image": {
-        "src": "../../images/mobile-phone.png",
+        "src": "../../images/tech-stack/redux.png",
         "alt": ""
       }
     },
     {
-      "label": "Modern Tech-Stack",
+      "label": "PostgreSQL",
       "image": {
-        "src": "../../images/gatsby.png",
+        "src": "../../images/tech-stack/postgresql.png",
         "alt": ""
       }
     },
     {
-      "label": "Blazing Fast",
+      "label": "GraphQL",
       "image": {
-        "src": "../../images/high-voltage.png",
+        "src": "../../images/tech-stack/graphql.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Bulma",
+      "image": {
+        "src": "../../images/tech-stack/bulma-ui.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Bootstrap",
+      "image": {
+        "src": "../../images/tech-stack/bootstrap5.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Sass",
+      "image": {
+        "src": "../../images/tech-stack/sass.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Gatsby",
+      "image": {
+        "src": "../../images/tech-stack/gatsby.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Wordpress",
+      "image": {
+        "src": "../../images/tech-stack/wordpress.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "jQuery",
+      "image": {
+        "src": "../../images/tech-stack/jquery.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Jest",
+      "image": {
+        "src": "../../images/tech-stack/jest.png",
         "alt": ""
       }
     }

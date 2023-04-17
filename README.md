@@ -8,9 +8,9 @@
 
 #### A Gatsby Starter Project to easily get started with the Portfolio Minimal Theme.
 
-Portfolio Minimal is a Gatsby Theme that let's you create outstanding one-page portfolios within minutes. This Gatsby Starter is a boilerplate project that has the theme pre-installed and pre-configured.
+Portfolio Minimal is a Gatsby Theme that lets you create outstanding one-page portfolios within minutes. This Gatsby Starter is a boilerplate project that has the theme pre-installed and pre-configured.
 
-Just clone this Gatsby Starter, add the content. And that's it!
+Just clone this Gatsby Starter, and add the content. And that's it!
 
 [Live Demo on Gatsby Cloud](https://gatsbystarterportfoliominimalt.gatsbyjs.io/) · [Live Demo on Netlify](https://gatsby-starter-portfolio-minimal-theme.netlify.app/) · [Portfolio Minimal Theme on Github](https://github.com/konstantinmuenster/gatsby-theme-portfolio-minimal)
 

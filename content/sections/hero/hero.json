@@ -1,22 +1,22 @@
 {
-  "intro": "Hej",
+  "intro": "",
   "heroPhoto": {
-    "src": "../../images/lego-dummy.png",
-    "alt": "My Photo"
+    "src": "",
+    "alt": ""
   },
   "image": {
-    "src": "../../images/waving-hand.png",
-    "alt": "Waving Hand Emoji"
+    "src": "",
+    "alt": ""
   },
-  "title": "I'm a Gatsby Starter",
+  "title": "Felipe Oyarzo",
   "subtitle": {
-    "prefix": "I do all the setup ",
-    "highlight": "for you",
-    "suffix": "."
+    "prefix": "",
+    "highlight": "",
+    "suffix": ""
   },
-  "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
+  "description": "Hello! I am a software developer! I can help you build and maintain apps, features, or websites. Have a look at my projects below. If you like what you see and have a project that needs to be coded, don't hesitate and contact me, I'll be happy to discuss it.  ",
   "socialProfiles": {
     "from": ["LinkedIn", "Medium", "Github", "Mail"],
-    "showIcons": false
+    "showIcons": true
   }
 }

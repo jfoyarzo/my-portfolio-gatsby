@@ -7,7 +7,7 @@ export const Form = (props) => {
   const [state, handleSubmit] = useForm("xyyalger");
   if (state.succeeded) {
     return (
-      <Section anchor={props.sectionId} className={styles.section}>
+      <Section anchor={props.sectionId}>
       <p className={styles.message}>
         Thank you, I will get back at you as soon as I can!{" "}
       </p>
@@ -15,7 +15,7 @@ export const Form = (props) => {
     );
   }
   return (
-    <Section anchor={props.sectionId} className={styles.section}>
+    <Section anchor={props.sectionId}>
       <form onSubmit={handleSubmit} className={styles.form}>
           <input
             id="name"

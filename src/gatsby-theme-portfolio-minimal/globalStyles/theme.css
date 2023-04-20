@@ -76,6 +76,7 @@ h3 {
     background-size: 25vh;
 }
 
+
 @media (min-width: 768px) {
     #projects {
         background-size: 20vw, 20vw;
@@ -114,11 +115,18 @@ h3 {
     }
 
     #contact {
+        background: #f2f2f2 no-repeat bottom right;
+        height: 70vh;
+        padding-top: 8em;
+    }
+
+    #contact-form {
+        padding-top: 2em;
         background: url('/img/contact-bg2.png') #f2f2f2 no-repeat bottom right;
         background-size: 25vh;
-        height: 60vh;
-        padding-top: 6em;
-    }
+        height: 50vh;
+      }
+     
 
     footer {
         margin-top: 0 !important;

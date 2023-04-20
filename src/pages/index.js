@@ -9,6 +9,7 @@ import {
   ProjectsSection,
   Seo,
 } from "gatsby-theme-portfolio-minimal";
+import { Form } from "../components/Form";
 
 export default function IndexPage() {
   return (
@@ -21,6 +22,7 @@ export default function IndexPage() {
         <ProjectsSection sectionId="projects" heading="Projects" />
         <AboutSection sectionId="about" heading="About Me" />
         <ContactSection sectionId="contact" heading="Connect" />
+        <Form sectionId="contact-form"/>
       </Page>
     </>
   );

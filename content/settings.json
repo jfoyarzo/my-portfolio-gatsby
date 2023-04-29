@@ -1,7 +1,7 @@
 {
   "siteMetadata": {
     "language": "en",
-    "siteUrl": "https://gatsby-starter-portfolio-minimal-theme.netlify.app/",
+    "siteUrl": "https://felipeoyarzo.gatsbyjs.io/",
     "title": "Felipe Oyarzo's Portfolio",
     "titleTemplate": "%s · Portfolio · Felipe Oyarzo ",
     "description": "Development portfolio of Felipe Oyarzo. Contains a variety of projects written mainly in JavaScript and Ruby, and using frameworks like Rails, React, Bootstrap, Gatsby, and others",

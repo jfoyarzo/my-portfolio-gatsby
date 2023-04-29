@@ -3,7 +3,7 @@ module.exports = {
     {
       resolve: "gatsby-theme-portfolio-minimal",
       options: {
-        siteUrl: "https://gatsby-starter-portfolio-minimal-theme.netlify.app/",
+        siteUrl: "https://felipeoyarzo.gatsbyjs.io/",
         manifestSettings: {
           favicon: "./content/images/favicon.png",
           siteName: "Felipe Oyarzo's Portfolio",

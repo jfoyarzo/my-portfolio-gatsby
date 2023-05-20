@@ -1,54 +1,164 @@
-<img src="screenshot.png" alt="Gatsby Theme Portfolio Minimal Screenshot" width="700" />
+<a name="readme-top"></a>
 
-<a href="https://www.gatsbyjs.com/dashboard/deploynow?url=https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme" target="_blank">
-<img src="https://www.gatsbyjs.com/deploynow.svg" alt="Deploy to Gatsby Cloud" />
-</a>
+# 📗 Table of Contents
 
-# Gatsby Starter Portfolio Minimal Theme
+- [📗 Table of Contents](#-table-of-contents)
+- [📖 My Portfolio ](#-my-portfolio-)
+  - [🛠 Built With ](#-built-with-)
+    - [Tech Stack ](#tech-stack-)
+    - [Key Features ](#key-features-)
+  - [🚀 Live Demo ](#-live-demo-)
+  - [💻 Getting Started ](#-getting-started-)
+    - [Prerequisites](#prerequisites)
+    - [Setup](#setup)
+    - [Install](#install)
+    - [Usage](#usage)
+    - [Deployment](#deployment)
+  - [👥 Author ](#-author-)
+  - [🔭 Future Features ](#-future-features-)
+  - [🤝 Contributing ](#-contributing-)
+  - [⭐️ Show your support ](#️-show-your-support-)
+  - [🙏 Acknowledgments ](#-acknowledgments-)
+  - [📝 License ](#-license-)
 
-#### A Gatsby Starter Project to easily get started with the Portfolio Minimal Theme.
 
-Portfolio Minimal is a Gatsby Theme that lets you create outstanding one-page portfolios within minutes. This Gatsby Starter is a boilerplate project that has the theme pre-installed and pre-configured.
+# 📖 My Portfolio <a name="about-project"></a>
 
-Just clone this Gatsby Starter, and add the content. And that's it!
+**My Portfolio** project, in which I showcase the projects I have worked on. It's built using React, the Gatsby framework, and CSS Modules. It consists of 5 sections (Hero, Tech Stack, Projects, About Me, and Contact). Each project contains links to both the GitHub repository and the deployed app.
 
-[Live Demo on Gatsby Cloud](https://gatsbystarterportfoliominimalt.gatsbyjs.io/) · [Live Demo on Netlify](https://gatsby-starter-portfolio-minimal-theme.netlify.app/) · [Portfolio Minimal Theme on Github](https://github.com/konstantinmuenster/gatsby-theme-portfolio-minimal)
 
----
+## 🛠 Built With <a name="built-with"></a>
 
-## Installation
+### Tech Stack <a name="tech-stack"></a>
 
-1. Install the Gatsby CLI
 
-   ```sh
-   npm install -g gatsby-cli
-   ```
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="https://react.dev/">React</a></li>
+    <li><a href="https://www.gatsbyjs.com/">Gatsby</a></li>
+  </ul>
+</details>
 
-2. Create a new Gatsby site with the Portfolio Minimal Starter.
+<details>
+<summary>API</summary>
+  <ul>
+    <li><a href="https://graphql.org/">GraphQL</a></li>
+  </ul>
+</details>
 
-   ```sh
-   gatsby new portfolio-minimal https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme
-   ```
 
-3. Once installed, you can begin developing your site.
+### Key Features <a name="key-features"></a>
 
-   ```sh
-   cd portfolio-minimal
-   gatsby develop
-   ```
+- Displays data from different sources, like JSON and Markdown files.
+- Responsive design.
+- The resume can be downloaded as a PDF file.
 
-4. By default, the Portfolio Minimal Starter has a `content` directory at the root of your Gatsby site. There, you can edit the theme settings as well as add content for your sections. To learn more about it, have a look at the [Readme of Portfolio Minimal](https://github.com/konstantinmuenster/gatsby-theme-portfolio-minimal/tree/main/gatsby-theme-portfolio-minimal#readme).
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
----
 
-## Issues?
+## 🚀 Live Demo <a name="live-demo"></a>
+<br>
 
-If you find any bugs or have feature suggestions, create a new issue or pull request 🙏
+[Deployed Version](https://felipeoyarzo.gatsbyjs.io/)
 
-Thanks a lot for using this starter! 💪
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
----
+## 💻 Getting Started <a name="getting-started"></a>
 
-<a href="https://www.buymeacoffee.com/kmuenster" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+To get a local copy up and running, follow these steps.
 
-Konstantin Münster – [konstantin.digital](https://konstantin.digital)
+### Prerequisites
+
+To run this project you need:
+- Gatsby CLI version 5+
+- Git
+- Npm/Node.js
+
+### Setup
+
+Clone this repository to your desired folder using this command:
+
+```
+git clone git@github.com:jfoyarzo/my-portfolio-gatsby.git
+```
+
+```
+cd my-portfolio-gatsby
+```
+
+
+### Install
+
+Install this project's dependencies using:
+
+  ```
+  npm install
+  ```
+
+
+### Usage
+
+To run the project, execute the following command from the root folder of the app:
+```
+gatsby develop
+```
+this will start a development build on http://localhost:8000/
+
+
+### Deployment
+
+For production build use:
+
+```
+gatsby build
+```
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+## 👥 Author <a name="authors"></a>
+
+👤 **Felipe Oyarzo**
+
+- GitHub: [@jfoyarzo](https://github.com/jfoyarzo)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/jorge-felipe-oyarzo-contreras)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🔭 Future Features <a name="future-features"></a>
+
+- Improved user interface
+- Blog functionality
+- Improved animations
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+## 🤝 Contributing <a name="contributing"></a>
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page]([../../issues/](https://github.com/jfoyarzo/my-portfolio-gatsby/issues)).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## ⭐️ Show your support <a name="support"></a>
+
+
+If you like this project please consider giving it a star!
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+This project was built using the [Starter Portfolio Minimal Theme](https://github.com/konstantinmuenster/gatsby-theme-portfolio-minimal) by [Konstantin Münster](https://konstantin.digital).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./LICENSE) licensed.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>

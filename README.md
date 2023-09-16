@@ -60,7 +60,7 @@
 ## 🚀 Live Demo <a name="live-demo"></a>
 <br>
 
-[Deployed Version](https://felipeoyarzo.gatsbyjs.io/)
+[Deployed Version](https://felipeoyarzo.dev/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

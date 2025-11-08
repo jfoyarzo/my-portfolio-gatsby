@@ -2,23 +2,37 @@
   "projects": [
     {
       "visible": true,
-      "category": "API Server | Full-stack app",
-      "title": "Skatepark App",
-      "description": "An app that enables users to sign up for a fictional Skate event. The users and their info is displayed on the homepage of the front end. It has an admin view where you can authorize the registration of users. The backend is an API REST server made with Node.js and the Express framework. Express-Handlebars is used to render the pages dynamically and the data is persisted using a PostgreSQL database.",
-      "tags": ["JavaScript","Bootstrap", "Node.js", "ExpressJS", "Express-Handlebars", "JWT", "PostgreSQL"],
+      "category": "Learning Management System | Full-stack app",
+      "title": "Leap",
+      "description": "An app for teaching English-speaking skills to non-native speakers. It uses Ruby on Rails and React, as well as different external services for Speech Recognition, Text-to-Speech, and AI-powered feedback.",
+      "tags": ["Ruby on Rails", "PostgreSQL", "Hotwire", "React", "OpenAI"],
       "image": {
-        "src": "../../images/skatepark.png",
-        "alt": "Skatepark app frontend",
-        "linkTo": "https://github.com/jfoyarzo/SkateparkApp"
+        "src": "../../images/leap-microverse.png",
+        "alt": "Leap app",
+        "linkTo": "https://leap.school"
       },
       "links": [
         {
-          "type": "github",
-          "url": "https://github.com/jfoyarzo/SkateparkApp"
-        },
+          "type": "external",
+          "url": "https://leap.school"
+        }
+      ]
+    },    
+    {
+      "visible": true,
+      "category": "Learning Management System | Full-stack app",
+      "title": "Microverse Student Platform",
+      "description": "A learning management system for the Microverse curriculum. It allows students to view course content, track their progress, and attend webinars. It also allows admins to manage the content and the users.",
+      "tags": ["Ruby on Rails", "PostgreSQL", "Hotwire", "JavaScript"],
+      "image": {
+        "src": "../../images/student-platform-microverse.png",
+        "alt": "Microverse student platform",
+        "linkTo": "https://www.microverse.org/full-stack-program"
+      },
+      "links": [
         {
           "type": "external",
-          "url": "https://skatepark-app.onrender.com/"
+          "url": "https://www.microverse.org/full-stack-program"
         }
       ]
     },    
@@ -85,6 +99,28 @@
         {
           "type": "external",
           "url": "https://pinball-wizard.netlify.app/"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "API Server | Full-stack app",
+      "title": "Skatepark App",
+      "description": "An app that enables users to sign up for a fictional Skate event. The users and their info is displayed on the homepage of the front end. It has an admin view where you can authorize the registration of users. The backend is an API REST server made with Node.js and the Express framework. Express-Handlebars is used to render the pages dynamically and the data is persisted using a PostgreSQL database.",
+      "tags": ["JavaScript","Bootstrap", "Node.js", "ExpressJS", "Express-Handlebars", "JWT", "PostgreSQL"],
+      "image": {
+        "src": "../../images/skatepark.png",
+        "alt": "Skatepark app frontend",
+        "linkTo": "https://github.com/jfoyarzo/SkateparkApp"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/jfoyarzo/SkateparkApp"
+        },
+        {
+          "type": "external",
+          "url": "https://skatepark-app.onrender.com/"
         }
       ]
     }

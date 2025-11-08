@@ -1,7 +1,7 @@
 {
   "siteMetadata": {
     "language": "en",
-    "siteUrl": "https://felipeoyarzo.gatsbyjs.io/",
+    "siteUrl": "https://felipeoyarzo.dev/",
     "title": "Felipe Oyarzo's Portfolio",
     "titleTemplate": "%s · Portfolio · Felipe Oyarzo ",
     "description": "Development portfolio of Felipe Oyarzo. Contains a variety of projects written mainly in JavaScript and Ruby, and using frameworks like Rails, React, Bootstrap, Gatsby, and others",
@@ -29,7 +29,7 @@
         "url": "/resume_felipe_oyarzo.pdf"
       },
       "footer": [
-        { "label": "Felipe Oyarzo - 2023", "url": "/#hero" }
+        { "label": "Felipe Oyarzo - 2025", "url": "/#hero" }
       ]
     },
     "featureToggles": {

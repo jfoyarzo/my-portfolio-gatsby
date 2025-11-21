@@ -66,7 +66,7 @@ h3 {
 
 #about {
     padding-top: 3rem;
-    background: url('/img/grid-bg2.png') 2% 62% no-repeat;
+    background: url('/img/grid-bg2.png') 2% 63% no-repeat;
     background-size: 15vh;
 }
 
@@ -99,13 +99,13 @@ h3 {
     }
 
     #stack {
-        padding-top: 4em;
+        padding-top: 8em;
     }
 
     #projects {
-        background: url('/img/grid-bg3.png') no-repeat 0 0, url('/img/image_dots_with_teal.png') no-repeat 98% 100%, url('/img/image_dots.png') no-repeat 85% 50%;
+        background: url('/img/grid-bg3.png') no-repeat 0 0, url('/img/image_dots_with_teal.png') no-repeat 98% 100%, url('/img/image_dots.png') no-repeat 85% 53%;
         background-size: 30vh;
-        padding-top: 3em;
+        padding-top: 10em;
     }
 
     #about {
@@ -116,10 +116,25 @@ h3 {
 
     #contact {
         background: #f2f2f2 no-repeat bottom right;
-        height: 50vh;
+        padding-top: 15em;
+        padding-bottom: 2em;
     }     
 
     footer {
         margin-top: 0 !important;
+    }
+}
+
+@media (min-width: 1920px) {
+    #projects {
+        padding-top: 5em;
+    }
+
+    #about {
+        height: 50vh;
+    }
+
+    #contact {
+        padding-top: 0;
     }
 }
